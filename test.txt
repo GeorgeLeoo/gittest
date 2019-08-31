@@ -2,3 +2,4 @@ This is an apple;
 Apple is red;
 Apple is iphone;
 remove 1.0;
+update 1.0
